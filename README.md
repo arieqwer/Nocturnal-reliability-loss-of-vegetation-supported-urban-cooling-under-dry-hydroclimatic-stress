@@ -1,6 +1,6 @@
 # Urban green-refuge reliability during dry hot nights
 
-This repository is a curated reproducibility package for a *Communications Earth & Environment* submission. It contains processed source data and scripts needed to regenerate the display items, source tables, and key reported numerical results from processed data.
+This repository is a curated reproducibility package for a manuscript on synchronized nocturnal green-refuge failure in urban systems. It contains processed source data and scripts needed to regenerate the display items, source tables, and key reported numerical results from processed data.
 
 ## What is included
 
