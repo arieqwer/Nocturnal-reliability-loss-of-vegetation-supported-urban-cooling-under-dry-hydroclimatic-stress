@@ -1,6 +1,6 @@
-# Urban green-refuge reliability during dry hot nights
+# Nocturnal reliability loss of vegetation-supported urban cooling under dry hydroclimatic stress
 
-This repository is a curated reproducibility package for a manuscript on synchronized nocturnal green-refuge failure in urban systems. It contains processed source data and scripts needed to regenerate the display items, source tables, and key reported numerical results from processed data.
+This repository is a curated reproducibility package for a manuscript on nocturnal reliability loss of vegetation-supported urban cooling under dry hydroclimatic stress. It contains processed source data and scripts needed to regenerate the display items, source tables, and key reported numerical results from processed data.
 
 ## What is included
 
