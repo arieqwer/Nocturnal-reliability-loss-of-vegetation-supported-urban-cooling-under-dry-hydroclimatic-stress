@@ -43,6 +43,6 @@ Generated files are written to:
 - `export_supplementary_tables.py`: source tables as Markdown tables.
 - `validate_key_results.py`: prints key numerical findings from processed source tables.
 
-## Notes for review and reuse
+## Notes
 
-Population quantities are represented-panel burdens, not global population-at-risk estimates. Counterfactual pathway summaries are association-based standardizations under fitted models and are not intervention simulations.
+Population quantities are represented-panel burdens, not global population-at-risk estimates. Pathway summaries are association-based standardizations under fitted models and are not intervention simulations.
